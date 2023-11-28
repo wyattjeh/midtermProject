@@ -1,0 +1,9 @@
+C:\Users\wyatt\source\repos\midtermPart2\midtermPart2\bin\Debug\midtermPart2.exe.config
+C:\Users\wyatt\source\repos\midtermPart2\midtermPart2\bin\Debug\midtermPart2.exe
+C:\Users\wyatt\source\repos\midtermPart2\midtermPart2\bin\Debug\midtermPart2.pdb
+C:\Users\wyatt\source\repos\midtermPart2\midtermPart2\obj\Debug\midtermPart2.csproj.AssemblyReference.cache
+C:\Users\wyatt\source\repos\midtermPart2\midtermPart2\obj\Debug\midtermPart2.Properties.Resources.resources
+C:\Users\wyatt\source\repos\midtermPart2\midtermPart2\obj\Debug\midtermPart2.csproj.GenerateResource.cache
+C:\Users\wyatt\source\repos\midtermPart2\midtermPart2\obj\Debug\midtermPart2.csproj.CoreCompileInputs.cache
+C:\Users\wyatt\source\repos\midtermPart2\midtermPart2\obj\Debug\midtermPart2.exe
+C:\Users\wyatt\source\repos\midtermPart2\midtermPart2\obj\Debug\midtermPart2.pdb
